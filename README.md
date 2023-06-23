@@ -5,7 +5,6 @@ Each solution is implemented in Python and is accompanied by a detailed explanat
 
 ## Problems 
 
-
 ## How to Use
 
 You can browse the solutions by navigating through the problem files.
