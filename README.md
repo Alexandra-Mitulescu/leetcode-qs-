@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 This repository contains my solutions to various LeetCode problems.
-Each solution is implemented in Python and is accompanied by a detailed explanation.
+Each solution is implemented in Python.
 
 ## Problems 
 
